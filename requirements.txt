@@ -32,7 +32,7 @@ distro==1.4.0
 distro-info===0.23ubuntu1
 Django==3.0.8
 django-rest-auth==0.9.5
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 djangorestframework-simplejwt==4.4.0
 dlib==19.20.0
 duplicity==0.8.12.0
